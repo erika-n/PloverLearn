@@ -1,0 +1,4 @@
+lesson 3a-1: tryst
+lesson 1a: not
+lesson 3a-2: truth
+done: 3c-1
